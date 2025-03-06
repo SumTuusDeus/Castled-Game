@@ -1,0 +1,73 @@
+# CASTLED
+
+A 4-Player Board Game of Castle Building and Sabotage
+
+## Objective:
+
+Be the first player to build your castle and raise your flag!
+
+## Game Setup:
+
+**The Board:** The board consists of various spaces,
+including:
+Castle Spaces: Blank space. Exchange 10 stone for 1
+castle piece.
+Resource Spaces: Where you gather 10 or 20 stone.
+Gamble Spaces: Where you gamble to gain or lose 30
+stone.
+Battle Space: Where you challenge other players.
+Enemy Territory: Spaces belonging to other players.
+
+## Gameplay:
+
+**Turns:** Players take turns in a clockwise direction.
+**Movement:**
+On your turn, roll a die and move your game piece
+clockwise around the board.
+You may choose to stay in your own territory and move
+clockwise around your castle.
+Players may land on enemy resource spaces, but must
+continue along the path to the next territory.
+**Building Your Castle:**
+When you land on a Castle Space, you can spend 10
+stone to build a piece of your castle.
+Continue building pieces until your castle is complete and
+you can raise your flag.
+**Enemy Territory:**
+Entering: If you start your turn in an enemy's territory, roll
+the die. On an odd number, you lose 10 stone.
+
+
+Landing: If you land on an enemy's space, you can choose
+to roll the die. On an even number, the enemy loses 10
+stone or a castle piece.
+**Battle Space:**
+When you land on the Battle Space, you can challenge any
+other player.
+Both players roll a die, and the player with the highest
+number wins.
+The winner steals 10 stone or a castle piece from the loser.
+**Resource Spaces:**
+When you land on a Resource Space, collect either 10 or
+20 stone, as indicated on the space.
+**Gamble Spaces(star):**
+When you land on a Gamble Space, you can choose to
+gamble if you have 30 or more stone.
+Roll the die. On an even number, you gain 30 stone. On an
+odd number, you lose 30 stone.
+**Landing on the Same Space:**
+If you land on the same space as another player, you must
+battle them!
+Both players roll a die, and the player with the highest
+number wins.
+The winner steals 10 stone or a castle piece from the loser.
+**Special Rules:**
+No Attacking on the First Turn: Players cannot attack each
+other on the first turn of the game.
+If you are collecting stone in enemy territory, you may not
+attack the enemy player that turn.
+**Winning the Game:**
+The first player to build their castle and raise their flag is
+the winner!
+
+
